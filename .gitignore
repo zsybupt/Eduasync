@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/Eduasync/v15
+/1 VoidMethodWithoutAwaits/bin/Release
+/1 VoidMethodWithoutAwaits/obj/Release
