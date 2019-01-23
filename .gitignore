@@ -5,3 +5,5 @@
 /.vs/Eduasync/v15
 /1 VoidMethodWithoutAwaits/bin/Release
 /1 VoidMethodWithoutAwaits/obj/Release
+/2 NonGenericMethodWithoutAwaits/bin/Release
+/2 NonGenericMethodWithoutAwaits/obj/Release
