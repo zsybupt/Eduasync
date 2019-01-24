@@ -7,3 +7,5 @@
 /1 VoidMethodWithoutAwaits/obj/Release
 /2 NonGenericMethodWithoutAwaits/bin/Release
 /2 NonGenericMethodWithoutAwaits/obj/Release
+/3 FirstTaskCompletionSource/bin/Release
+/3 FirstTaskCompletionSource/obj/Release

@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1 VoidMethodWithoutAwaits",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2 NonGenericMethodWithoutAwaits", "2 NonGenericMethodWithoutAwaits\2 NonGenericMethodWithoutAwaits.csproj", "{1B9224AE-4478-40C0-9AE8-4C7736D89E15}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3 FirstTaskCompletionSource", "3 FirstTaskCompletionSource\3 FirstTaskCompletionSource.csproj", "{67B8AB1E-C5A6-4019-A7C3-49071D6CEE29}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1B9224AE-4478-40C0-9AE8-4C7736D89E15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B9224AE-4478-40C0-9AE8-4C7736D89E15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B9224AE-4478-40C0-9AE8-4C7736D89E15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67B8AB1E-C5A6-4019-A7C3-49071D6CEE29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67B8AB1E-C5A6-4019-A7C3-49071D6CEE29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67B8AB1E-C5A6-4019-A7C3-49071D6CEE29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67B8AB1E-C5A6-4019-A7C3-49071D6CEE29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
